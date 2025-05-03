@@ -13,18 +13,18 @@ const mockTracks = [
     title: "Summer Breeze", 
     artist: "Coastal Waves", 
     album: "Ocean Sounds", 
-    duration: 237, 
+    duration: 8, 
     cover: "/api/placeholder/300/300",
-    audio: "https://example.com/audio/track1.mp3"
+    audio: "/music/summer-breeze.mp3"
   },
   { 
     id: 1, 
-    title: "Mountain Echo", 
+    title: "Waterfall", 
     artist: "Nature Sounds", 
     album: "Wilderness", 
-    duration: 184, 
+    duration: 4, 
     cover: "/api/placeholder/300/300",
-    audio: "https://example.com/audio/track2.mp3"
+    audio: "music/waterfall.mp3"
   },
   { 
     id: 2, 
