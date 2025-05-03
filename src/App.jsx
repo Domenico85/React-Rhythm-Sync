@@ -31,18 +31,18 @@ const mockTracks = [
     title: "Urban Rhythm", 
     artist: "City Beats", 
     album: "Downtown", 
-    duration: 198, 
+    duration: 22, 
     cover: "/api/placeholder/300/300",
-    audio: "https://example.com/audio/track3.mp3"
+    audio: "music/Urban.mp3"
   },
   { 
     id: 3, 
     title: "Midnight Jazz", 
     artist: "Smooth Quartet", 
     album: "Late Hours", 
-    duration: 245, 
+    duration: 17, 
     cover: "/api/placeholder/300/300",
-    audio: "https://example.com/audio/track4.mp3"
+    audio: "music/jazz.mp3"
   },
   { 
     id: 4, 
