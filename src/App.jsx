@@ -14,7 +14,7 @@ const mockTracks = [
     artist: "Coastal Waves", 
     album: "Ocean Sounds", 
     duration: 8, 
-    cover: "/api/placeholder/300/300",
+    cover: "img/breeze.jpg",
     audio: "/music/summer-breeze.mp3"
   },
   { 
@@ -23,7 +23,7 @@ const mockTracks = [
     artist: "Nature Sounds", 
     album: "Wilderness", 
     duration: 4, 
-    cover: "/api/placeholder/300/300",
+    cover: "img/waterfall.jpg",
     audio: "music/waterfall.mp3"
   },
   { 
@@ -32,7 +32,7 @@ const mockTracks = [
     artist: "City Beats", 
     album: "Downtown", 
     duration: 22, 
-    cover: "/api/placeholder/300/300",
+    cover: "img/urban.jpg",
     audio: "music/Urban.mp3"
   },
   { 
@@ -41,7 +41,7 @@ const mockTracks = [
     artist: "Smooth Quartet", 
     album: "Late Hours", 
     duration: 17, 
-    cover: "/api/placeholder/300/300",
+    cover: "img/jazz.jpg",
     audio: "music/jazz.mp3"
   },
   { 
@@ -49,9 +49,9 @@ const mockTracks = [
     title: "Electronic Dreams", 
     artist: "Digital Artist", 
     album: "Future Sounds", 
-    duration: 221, 
-    cover: "/api/placeholder/300/300",
-    audio: "https://example.com/audio/track5.mp3"
+    duration: 19, 
+    cover: "img/dream.jpg",
+    audio: "music/dream.mp3"
   }
 ];
 
