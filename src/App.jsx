@@ -582,7 +582,7 @@ export default function MusicPlayerApp() {
             </div>
           </div>
           
-          {/* Volume Control */}
+          {/* Volume-Control */}
           <div className="flex items-center justify-end w-1/4">
             <Volume2 size={18} className="text-gray-400 mr-2" />
             <input
